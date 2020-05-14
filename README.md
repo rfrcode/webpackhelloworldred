@@ -8,4 +8,4 @@ Just a test.
 
     webpack
 
-    http-server -g -c-1
+    http-server -g
